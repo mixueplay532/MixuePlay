@@ -1,3 +1,54 @@
-Legal Disclaimer
+# TV Channel Guide
 
-This is for educational purposes only. Downloading copyrighted materials from streaming services may violate their Terms of Service. Use at your own risk.
+1. TVRI NASIONAL
+2. TVRI DKI HD
+3. TVRI WORLD
+4. TVRI Sport
+5. DAAI tv
+6. TVRI JAWA BARAT
+7. tvMu
+10. ELSHINTA
+11. Inspira TV
+12. BTV HD
+13. BR TV
+14. SIN PO tv HD
+16. MDTV
+17. GARUDA TV HD
+18. CNBC INDONESIA HD
+19. CNN INDONESIA HD
+20. TRANS TV HD
+21. TRANS 7 HD
+22. METRO TV HD
+23. SCTV HD
+24. INDOSIAR HD
+25. RTV HD1
+26. ANTV HD
+27. TVONE HD
+28. RCTI HD
+29. MNCTV HD
+30. GTV HD
+31. iNews HD
+32. Nusantara TV
+33. CTV
+34. RTV HD2
+35. MOJI HD
+36. MENTARI HD
+37. VTV HD
+38. MAGNA CHANNEL
+39. BN CHANNEL
+77. JAGANTARA
+102. jawaposTV
+104. SMILE TV
+105. UGTV
+115. JAKTV
+125. KOMPASTV HD
+127. KTV
+130. REPUBLIKA TV
+551. Radio TVRI 1 (Test)
+552. Radio TVRI 2 (Test)
+554. RRI Radio Pro 2 (Test)
+800. LOKA TV
+801. MDTV
+802. BERITA NASIONAL TV
+803. Rodja TV
+804. ASTHA TV
